@@ -33,7 +33,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [hocam diğer google sheet linkleri de bu linkle aynı.Hepsini aynı sayfaya yaptım](https://docs.google.com/spreadsheets/d/1MXx-IHidGFfoTTGaxBTl5y0-5eHfmbsnLG3mNUctozA/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [hocam diğer google sheet linkleri de bu linkle aynı.Hepsini aynı sayfaya yaptım](https://docs.google.com/spreadsheets/d/1MXx-IHidGFfoTTGaxBTl5y0-5eHfmbsnLG3mNUctozA/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 | Frame | Zaman(s) | Konum (m)|
 |-------|----------| ---------|
@@ -62,7 +62,7 @@ Ben kendi verilerim için bir google sheet hazırladım. [Buraya](https://docs.g
 *   Customize ------> Trendline -------> Linear, Label=Use Equation
 kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafiği 1.dereceden (linear-doğrusal) denklem. 
 
-1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1MXx-IHidGFfoTTGaxBTl5y0-5eHfmbsnLG3mNUctozA/edit#gid=0) link veriniz.
+1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1MXx-IHidGFfoTTGaxBTl5y0-5eHfmbsnLG3mNUctozA/edit?usp=sharing) link veriniz.
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
